@@ -1,0 +1,8 @@
+Revision history for Perl extension IO::Multi.
+
+0.01  Thu Sep 27 22:08:35 2001
+	- original version; created by h2xs 1.19
+
+0.02  Thu Sep 27 22:10:20 2001
+	- Copied my own Multi.pm over the one from h2xs ;)
+	- initial release Version
